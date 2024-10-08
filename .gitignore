@@ -1,0 +1,9 @@
+# Ignorar directorio virtualenv
+parasitechVenv/
+
+# Ignorar archivos de compilación de Python
+*.pyc
+__pycache__/
+
+
+*.pkl
