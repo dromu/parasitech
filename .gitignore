@@ -5,5 +5,3 @@ parasitechVenv/
 *.pyc
 __pycache__/
 
-
-*.pkl
