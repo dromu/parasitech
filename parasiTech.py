@@ -53,7 +53,7 @@ if st.session_state.condDial:
 # Logo 
 st.sidebar.image("parasitechLogo.png")
 
-st.sidebar.warning("Esta aplicación aún se encuentra en desarrollo. Algunas funcionalidades pueden no estar disponibles.")
+# st.sidebar.warning("Esta aplicación aún se encuentra en desarrollo. Algunas funcionalidades pueden no estar disponibles.")
 
 # Crear la barra lateral
 st.sidebar.header("Configuración")
