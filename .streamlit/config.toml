@@ -1,0 +1,19 @@
+[server]
+# Evita recargas y el vigilante de archivos en producción (consume memoria y CPU)
+fileWatcherType = "none"
+runOnSave = false
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#6B2C6F"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F1F7"
+textColor = "#1F2430"
+font = "sans serif"

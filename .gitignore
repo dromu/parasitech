@@ -5,3 +5,6 @@ parasitechVenv/
 *.pyc
 __pycache__/
 
+
+# Secretos de Streamlit
+.streamlit/secrets.toml
